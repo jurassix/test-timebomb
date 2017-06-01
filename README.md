@@ -1,6 +1,11 @@
 # test-timebomb
 💥 auto expire feature toggles in your code
 
+### install
+```js
+yarn add test-timebomb
+```
+
 ### example
 
 ```js
