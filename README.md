@@ -42,5 +42,6 @@ FAIL  __tests__/feature.test.js
 ### why does this exist?
 
 There are many scenarios where code depends on time sensitive implementations. Maybe it's your Firebase or AWS account info, or some Signing Certificates. If your build breaks _before_ any of these scenarios expire they force development to correct before an outage.
+
 Another use case is for features that you know will be deprecated can __loudly__ be set to be cleaned up in your codebase.
 
