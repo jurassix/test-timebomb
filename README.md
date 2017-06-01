@@ -1,6 +1,8 @@
 # test-timebomb
 💥 auto expire feature toggles in your code
 
+> Do you have time sensitive code? Put a 💣 on it!
+
 ### install
 ```js
 yarn add test-timebomb
