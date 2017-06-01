@@ -1,5 +1,5 @@
 # test-timebomb
-💥 auto expire features in your code
+💥 auto expire feature toggles in your code
 
 ### example
 
