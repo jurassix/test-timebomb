@@ -1,0 +1,25 @@
+{
+  "name": "test-timebomb",
+  "version": "1.0.0",
+  "description": "💥 auto expire features in your code Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jurassix/test-timebomb.git"
+  },
+  "keywords": [
+    "test",
+    "timebomb",
+    "features",
+    "expired"
+  ],
+  "author": "Clint Ayres <clinton.ayres@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jurassix/test-timebomb/issues"
+  },
+  "homepage": "https://github.com/jurassix/test-timebomb#readme"
+}
